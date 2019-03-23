@@ -14,4 +14,4 @@
 
 Swim论文：http://www.cs.cornell.edu/Info/Projects/Spinglass/public_pdfs/SWIM.pdf
 
-我的博客：https://zhuanlan.zhihu.com/p/50006520
+我的博客：https://hunterlxt.github.io/2018/12/01/SWIM-protocol/
